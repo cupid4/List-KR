@@ -38,6 +38,13 @@
 @@||techsighter.com/js/siropu/am/ads.min.js
 @@||webzook.net/js/fuckadblock.js
 
+! Custom Filter
+||cloudaaaa.com^
+||wbwb7.com^
+||bbet2020.com^
+||afm88.com^
+||tlo-777.com^
+
 ! Blocking ip logger/tracking services
 ||02ip.ru^
 ||2no.co^
