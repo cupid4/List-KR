@@ -44,6 +44,7 @@
 ||bbet2020.com^
 ||afm88.com^
 ||tlo-777.com^
+||cloudaaaa.com^
 
 ! Blocking ip logger/tracking services
 ||02ip.ru^
