@@ -45,6 +45,7 @@
 ||afm88.com^
 ||tlo-777.com^
 ||cloudaaaa.com^
+||naver.com
 
 ! Blocking ip logger/tracking services
 ||02ip.ru^
